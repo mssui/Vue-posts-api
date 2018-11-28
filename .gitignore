@@ -1,2 +1,6 @@
 /node_modules
 /client
+id2_rsa
+id2_rsa.pub
+id_heroku
+id_heroku.pub
